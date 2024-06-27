@@ -8,7 +8,6 @@ from datetime import datetime
 companies_careers = [
     "https://example.com/careers/",
     "https://example2.com/careers/",
-
 ]
 
 # Keywords for the role you are searching for at companies listed above. Account for different variations of roles to obtain more matches (eg: ML engineer, machine learning engineer) to enhance scraping accuracy
