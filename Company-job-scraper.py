@@ -11,7 +11,7 @@ companies_careers = [
 ]
 
 # Keywords for the role you are searching for at companies listed above. Account for different variations of roles to obtain more matches (eg: ML engineer, machine learning engineer) to enhance scraping accuracy
-job_keywords = ["ml engineer", "machine learning engineer"]
+job_keywords = ["customer success manager", "product marketing", "director customer success"]
 
 def scrape_webpage(url, keywords):
     """Scrapes an entire webpage and checks for keyword matches."""
